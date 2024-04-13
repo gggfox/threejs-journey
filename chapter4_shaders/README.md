@@ -23,3 +23,9 @@ we send varying data from vertex shader to fragment shader
 threejs materials are limited
 shaders can be simple and performant
 we can do coustom post-processing
+
+# animated galax
+update three.js default materials to use your own shaders
+
+# modified material
+update three.js default materials to use your own shaders
